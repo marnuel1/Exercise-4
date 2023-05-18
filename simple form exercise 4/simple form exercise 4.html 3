@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Form</title>
+</head>
+<body>
+    <form>
+        <label for="name1">Name 1:</label>
+        <input type="text" id="name1" name="name1" placeholder="Enter your name">
+
+        <label for="name2">Name 2:</label>
+        <input type="text" id="name2" name="name2" placeholder="Enter another name">
+
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
